@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ual.hmis.asignatura"},{"l":"ual.hmis.sesion06.ejercicio1"},{"l":"ual.hmis.sesion06.ejercicio2"},{"l":"ual.hmis.sesion06.ejercicio3"},{"l":"ual.hmis.sesion06.ejercicio4"},{"l":"ual.hmis.sesion06.ejercicio8"}]

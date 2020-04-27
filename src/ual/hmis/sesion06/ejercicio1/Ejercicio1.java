@@ -1,5 +1,10 @@
 package ual.hmis.sesion06.ejercicio1;
 
+
+/**
+ * @author juanj
+ *
+ */
 public class Ejercicio1 {
 	public int transformar (int x) {
 		int resultado = 0;
