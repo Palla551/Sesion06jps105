@@ -3,7 +3,7 @@ package ual.hmis.sesion06.ejercicio4;
 public class Ejercicio4 {
 
 	public String innerJoin(String p1, String p2) {
-		if (p1 == "" || p2 == "") return null;
+		if (p1.equals("") || p2.equals("")) return null;
 		String res = "";
 		
 		for(char x : p1.toCharArray())
